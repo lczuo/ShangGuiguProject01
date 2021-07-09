@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a388cf31-59dd-4eb5-b17b-6fd888e35ac4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ball-wap@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ball-wap@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ball-wap@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ball-wap: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ball-wap@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ball-wap: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="article: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-417659052">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="HashMap" value="1" />
+          <entry key="article" value="2" />
+          <entry key="class" value="1" />
+          <entry key="java" value="20" />
+          <entry key="jsp" value="1" />
+          <entry key="sql" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Database Element" value="2" />
+          <entry key="JAVA" value="20" />
+          <entry key="JSP" value="1" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="2" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ft" value="17" />
+          <entry key="java" value="296" />
+          <entry key="txt" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="296" />
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="VTL" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ShangGuiguProject01">
+      <favorite_root url="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/HashMap.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aitguigu/java/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System</find>
+      <find>rr</find>
+      <find>list</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9062a0ef-61cf-4829-a490-7b62e7ad01e1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Module01/src/com/atguigu/bean/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/aitguigu/java/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/aitguigu/java/TemplatesTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1021" />
+    <option name="width" value="908" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aitguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aitguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeb EE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShangGuiguProject01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShangGuiguProject01" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeb EE" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/HashMap.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625815421469" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16324535" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bean.Customer" />
+      <module name="Module01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aitguigu.java.HelloWorld" />
+      <module name="ShangGuiguProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aitguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: JavaWeb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/JavaWeb" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="JavaWeb" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: JavaWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: ShangGuiguProject01" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="ShangGuiguProject01" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: ShangGuiguProject01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="JavaWeb EE:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_45_ShangGuiguProject01" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59078" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaWeb EE:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Customer" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.45" />
+      <item itemvalue="Cucumber java.All Features in: JavaWeb" />
+      <item itemvalue="Cucumber java.All Features in: ShangGuiguProject01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Cucumber java.All Features in: ShangGuiguProject01" />
+        <item itemvalue="Cucumber java.All Features in: JavaWeb" />
+        <item itemvalue="Application.Customer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a388cf31-59dd-4eb5-b17b-6fd888e35ac4" name="Default Changelist" comment="" />
+      <created>1625447432827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625447432827</updated>
+      <workItem from="1625447437508" duration="6963000" />
+      <workItem from="1625557564404" duration="47000" />
+      <workItem from="1625557658424" duration="16653000" />
+    </task>
+    <task id="LOCAL-00001" summary="这是project测试">
+      <created>1625733789479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625733789479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__JavaWeb - 2021.07.08 at 13h 53m 26s.xml">
+      <configuration name="All Features in: JavaWeb" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__ShangGuiguProject01 - 2021.07.08 at 16h 30m 07s.xml">
+      <configuration name="All Features in: ShangGuiguProject01" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.17292225" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5026042" side_tool="true" weight="0.28077456" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.32937685" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32937685" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.32599118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39879155" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.32599118" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24887556" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24896266" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3298351" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49739584" visible="true" weight="0.3868066" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5026042" side_tool="true" weight="0.28077456" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32937685" />
+      <window_info anchor="bottom" id="Database Console" order="1" weight="0.32937685" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.33086053" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="JProfiler" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24887556" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24896266" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3298351" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="这是project测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是project测试" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Module01/src/com/atguigu/bean/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aitguigu/java/a.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/jsse.jar!/sun/security/ssl/HandshakeHash.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3883#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Cloneable</node>
+            <node x="" y="">java.util.AbstractMap</node>
+            <node x="" y="">java.util.Map</node>
+            <node x="" y="">java.util.HashMap</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="192.0" y="95.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="1476" column="9" lean-forward="true" selection-start-line="1476" selection-start-column="9" selection-end-line="1476" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;class#HashMap#0" />
+            <element signature="e#10630#10703#0" />
+            <element signature="e#10775#10955#0" />
+            <element signature="e#11010#11085#0" />
+            <element signature="e#11143#11508#0" />
+            <element signature="e#11558#11773#0" />
+            <element signature="e#11825#12093#0" />
+            <element signature="e#12147#12297#0" />
+            <element signature="e#12147#13475#0" />
+            <element signature="e#12448#12626#0" />
+            <element signature="e#12636#12682#0" />
+            <element signature="e#12691#12739#0" />
+            <element signature="e#12748#12808#0" />
+            <element signature="e#12935#13073#0" />
+            <element signature="e#13083#13469#0" />
+            <element signature="e#13541#14494#0" />
+            <element signature="e#13541#14625#0" />
+            <element signature="e#14631#14742#0" />
+            <element signature="e#14631#15535#0" />
+            <element signature="e#15541#15646#0" />
+            <element signature="e#15541#15896#0" />
+            <element signature="e#15902#15979#0" />
+            <element signature="e#15902#16247#0" />
+            <element signature="e#16303#16568#0" />
+            <element signature="e#16607#16722#0" />
+            <element signature="e#16772#16846#0" />
+            <element signature="e#16876#17254#0" />
+            <element signature="e#17288#17393#0" />
+            <element signature="e#17647#17723#0" />
+            <element signature="e#17818#18164#0" />
+            <element signature="e#17818#18785#0" />
+            <element signature="e#18791#19062#0" />
+            <element signature="e#19168#19305#0" />
+            <element signature="e#19417#19839#0" />
+            <element signature="e#19417#19979#0" />
+            <element signature="e#19985#20198#0" />
+            <element signature="e#19985#20940#0" />
+            <element signature="e#20946#21085#0" />
+            <element signature="e#21142#21305#0" />
+            <element signature="e#21374#22175#0" />
+            <element signature="e#21374#22304#0" />
+            <element signature="e#22310#22474#0" />
+            <element signature="e#22310#23309#0" />
+            <element signature="e#23315#23586#0" />
+            <element signature="e#23691#24297#0" />
+            <element signature="e#24403#24735#0" />
+            <element signature="e#24403#26387#0" />
+            <element signature="e#26393#26758#0" />
+            <element signature="e#26393#29821#0" />
+            <element signature="e#29827#29967#0" />
+            <element signature="e#29827#30665#0" />
+            <element signature="e#30671#30999#0" />
+            <element signature="e#31101#31540#0" />
+            <element signature="e#31101#31706#0" />
+            <element signature="e#31712#32079#0" />
+            <element signature="e#31712#33733#0" />
+            <element signature="e#33739#33854#0" />
+            <element signature="e#33739#34092#0" />
+            <element signature="e#34098#34380#0" />
+            <element signature="e#34098#34844#0" />
+            <element signature="e#34850#35623#0" />
+            <element signature="e#34850#35797#0" />
+            <element signature="e#35803#36985#0" />
+            <element signature="e#35855#35911#0" />
+            <element signature="e#35920#35985#0" />
+            <element signature="e#35994#36063#0" />
+            <element signature="e#36072#36138#0" />
+            <element signature="e#36411#36979#0" />
+            <element signature="e#36991#37805#0" />
+            <element signature="e#36991#37993#0" />
+            <element signature="e#37999#39062#0" />
+            <element signature="e#38058#38114#0" />
+            <element signature="e#38123#38188#0" />
+            <element signature="e#38197#38268#0" />
+            <element signature="e#38277#38345#0" />
+            <element signature="e#38486#39056#0" />
+            <element signature="e#39068#39938#0" />
+            <element signature="e#39068#40095#0" />
+            <element signature="e#40101#41844#0" />
+            <element signature="e#40168#40224#0" />
+            <element signature="e#40233#40298#0" />
+            <element signature="e#40416#40748#0" />
+            <element signature="e#40757#41107#0" />
+            <element signature="e#41116#41252#0" />
+            <element signature="e#41261#41838#0" />
+            <element signature="e#41898#42069#0" />
+            <element signature="e#42342#42697#0" />
+            <element signature="e#42703#42986#0" />
+            <element signature="e#42992#44805#0" />
+            <element signature="e#44811#45484#0" />
+            <element signature="e#45490#47319#0" />
+            <element signature="e#47325#49315#0" />
+            <element signature="e#49321#49867#0" />
+            <element signature="e#49873#50470#0" />
+            <element signature="e#50581#50760#0" />
+            <element signature="e#50765#50795#0" />
+            <element signature="e#50581#51193#0" />
+            <element signature="e#51199#51307#0" />
+            <element signature="e#51312#51468#0" />
+            <element signature="e#51474#51996#0" />
+            <element signature="e#51474#52313#0" />
+            <element signature="e#52319#52587#0" />
+            <element signature="e#52319#54771#0" />
+            <element signature="e#53347#53373#0" />
+            <element signature="e#54029#54093#0" />
+            <element signature="e#54866#56424#0" />
+            <element signature="e#55103#55423#0" />
+            <element signature="e#55518#55994#0" />
+            <element signature="e#56004#56418#0" />
+            <element signature="e#56430#56570#0" />
+            <element signature="e#56516#56564#0" />
+            <element signature="e#56576#56720#0" />
+            <element signature="e#56664#56714#0" />
+            <element signature="e#56726#56890#0" />
+            <element signature="e#56827#56884#0" />
+            <element signature="e#56988#58229#0" />
+            <element signature="e#57377#57704#0" />
+            <element signature="e#57714#58100#0" />
+            <element signature="e#58110#58223#0" />
+            <element signature="e#58235#60945#0" />
+            <element signature="e#58358#58537#0" />
+            <element signature="e#58547#58853#0" />
+            <element signature="e#58863#59920#0" />
+            <element signature="e#59930#60775#0" />
+            <element signature="e#60785#60939#0" />
+            <element signature="e#60951#63638#0" />
+            <element signature="e#61076#61259#0" />
+            <element signature="e#61269#61581#0" />
+            <element signature="e#61591#62650#0" />
+            <element signature="e#62660#63507#0" />
+            <element signature="e#63644#66405#0" />
+            <element signature="e#63782#63965#0" />
+            <element signature="e#63975#64287#0" />
+            <element signature="e#64297#65363#0" />
+            <element signature="e#65373#66235#0" />
+            <element signature="e#66245#66399#0" />
+            <element signature="e#67169#67329#0" />
+            <element signature="e#67335#67488#0" />
+            <element signature="e#67494#67577#0" />
+            <element signature="e#67494#67765#0" />
+            <element signature="e#67771#67861#0" />
+            <element signature="e#67866#67908#0" />
+            <element signature="e#67913#67951#0" />
+            <element signature="e#67957#68428#0" />
+            <element signature="e#68523#68695#0" />
+            <element signature="e#68523#91532#0" />
+            <element signature="e#69090#69159#0" />
+            <element signature="e#69090#69365#0" />
+            <element signature="e#69375#69459#0" />
+            <element signature="e#69375#70330#0" />
+            <element signature="e#70340#70529#0" />
+            <element signature="e#70340#71531#0" />
+            <element signature="e#71541#71593#0" />
+            <element signature="e#71744#72072#0" />
+            <element signature="e#71744#72433#0" />
+            <element signature="e#72443#72516#0" />
+            <element signature="e#72443#74151#0" />
+            <element signature="e#74161#74269#0" />
+            <element signature="e#74161#74674#0" />
+            <element signature="e#74684#74734#0" />
+            <element signature="e#74684#76650#0" />
+            <element signature="e#76660#77256#0" />
+            <element signature="e#76660#80858#0" />
+            <element signature="e#80868#81290#0" />
+            <element signature="e#80868#82985#0" />
+            <element signature="e#83127#83762#0" />
+            <element signature="e#83772#84410#0" />
+            <element signature="e#84420#86581#0" />
+            <element signature="e#86591#90540#0" />
+            <element signature="e#90550#90602#0" />
+            <element signature="e#90550#91526#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb EE/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aitguigu/java/TemplatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/525e880b-0de2-41d8-af53-f9ee4a8db00e/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/210c9313-33c8-4339-8c73-52d9007e00a8/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://210c9313-33c8-4339-8c73-52d9007e00a8/schema/ball-wap/table/article">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://210c9313-33c8-4339-8c73-52d9007e00a8/schema/ball-wap/table/article.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aitguigu/java/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaWeb EE:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaWeb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
